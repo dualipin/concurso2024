@@ -1,4 +1,4 @@
-# Concurso de Programación Web 2024
+# Concurso de Programación Web 2024 - Generación, almacenamiento y análisis estadístico
 
 ## Puntos a Evaluar
 
