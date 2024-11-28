@@ -1,4 +1,6 @@
-# Concurso de Programación Web 2024
+# Concurso de Programación Web 2024 - El dilema de Don Jacinto
+
+Ejercicio de programación web para el concurso de programación web 2024.
 
 ## Puntos a Evaluar
 
