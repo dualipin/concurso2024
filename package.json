@@ -1,0 +1,16 @@
+{
+  "name": "concurso2024",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "css": "tailwindcss -i ./public/in.css -o ./public/styles.css --watch",
+    "css:build": "tailwindcss -i ./public/in.css -o ./public/styles.css --minify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  }
+}
